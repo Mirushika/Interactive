@@ -1,0 +1,14 @@
+img{
+    width: 250px;
+    height: 200px;
+    object-fit: cover;
+    display: flex;
+    border-radius: 10px;
+
+}
+.gallery1,.gallery2{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 20px;
+}
